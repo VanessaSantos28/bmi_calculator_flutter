@@ -1,6 +1,6 @@
 # imc_calculadora_flutter
 
-A new Flutter project.
+Projeto criado em conjunto com o curso de Flutter da Udemy, nele podemos calcular o Indice de Massa Corporal através do peso e altura da pessoa.
 
 ## Getting Started
 
